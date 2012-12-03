@@ -18,7 +18,6 @@ C:\Projects\InstaBoard\InstaSharp\obj\Release\InstaSharp.dll
 C:\Projects\InstaBoard\InstaSharp\obj\Release\InstaSharp.pdb
 D:\Lehoczky Zoltan\Documents\GitHub\InstaSharp\bin\Release\InstaSharp.dll
 D:\Lehoczky Zoltan\Documents\GitHub\InstaSharp\bin\Release\InstaSharp.pdb
-D:\Lehoczky Zoltan\Documents\GitHub\InstaSharp\obj\Release\InstaSharp.csprojResolveAssemblyReference.cache
 D:\Lehoczky Zoltan\Documents\GitHub\InstaSharp\obj\Release\InstaSharp.dll
 D:\Lehoczky Zoltan\Documents\GitHub\InstaSharp\obj\Release\InstaSharp.pdb
 D:\Lehoczky Zoltan\Documents\GitHub\InstaSharp\bin\Release\Newtonsoft.Json.dll
