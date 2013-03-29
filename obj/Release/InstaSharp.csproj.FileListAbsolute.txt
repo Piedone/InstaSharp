@@ -21,3 +21,9 @@ D:\Lehoczky Zoltan\Documents\GitHub\InstaSharp\bin\Release\InstaSharp.pdb
 D:\Lehoczky Zoltan\Documents\GitHub\InstaSharp\obj\Release\InstaSharp.dll
 D:\Lehoczky Zoltan\Documents\GitHub\InstaSharp\obj\Release\InstaSharp.pdb
 D:\Lehoczky Zoltan\Documents\GitHub\InstaSharp\bin\Release\Newtonsoft.Json.dll
+d:\Users\Zoltán\Projects\Munka\Onestop\3rd party forks\InstaSharp\bin\Release\InstaSharp.dll
+d:\Users\Zoltán\Projects\Munka\Onestop\3rd party forks\InstaSharp\bin\Release\InstaSharp.pdb
+d:\Users\Zoltán\Projects\Munka\Onestop\3rd party forks\InstaSharp\bin\Release\Newtonsoft.Json.dll
+d:\Users\Zoltán\Projects\Munka\Onestop\3rd party forks\InstaSharp\obj\Release\InstaSharp.csprojResolveAssemblyReference.cache
+d:\Users\Zoltán\Projects\Munka\Onestop\3rd party forks\InstaSharp\obj\Release\InstaSharp.dll
+d:\Users\Zoltán\Projects\Munka\Onestop\3rd party forks\InstaSharp\obj\Release\InstaSharp.pdb

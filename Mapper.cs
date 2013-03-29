@@ -96,11 +96,9 @@ namespace InstaSharp {
         }
 
         private static DateTime UnixTimeStampToDateTime(string unixTimeStamp) {
-            // Unix timestamp is seconds past epoch
-            double unixTime = Convert.ToDouble(unixTimeStamp);
-            System.DateTime dtDateTime = new DateTime(1970, 1, 1, 0, 0, 0, 0);
-            dtDateTime = dtDateTime.AddSeconds(unixTime).ToLocalTime();
-            return dtDateTime;
+            var unixTime = long.Parse(unixTimeStamp);
+            var epoch = new DateTime(1970, 1, 1, 0, 0, 0, DateTimeKind.Utc);
+            return epoch.AddSeconds(unixTime);
         }
 
         private static void SetPropertyValue(PropertyInfo prop, object instance, object value) {
